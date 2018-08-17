@@ -26,5 +26,6 @@
 Решение
 -------------------------
 В условиях отсутствия Raspberry Pi программа реализована следствами библиотеки tkinter.
-<a href="url"><img src="https://github.com/aTasja/TrickyTaskFromILocked/blob/master/Frame.png" align="left" height="360" width="190"></a>
+
+<a href="url"><img src="https://github.com/aTasja/TrickyTaskFromILocked/blob/master/Frame.png" align="left" height="250" width="250"></a>
 
